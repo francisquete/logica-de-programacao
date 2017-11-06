@@ -7,4 +7,3 @@ while x < 5:
     soma += media[x]
     x += 1
 print("media: %5.2f" %(soma/x))
-print("python  legal")

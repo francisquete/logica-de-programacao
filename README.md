@@ -1,2 +1,3 @@
-# logica-de-programacao
-Exercícios de lógica de programação do curso de Python do professor Fernando Masanori
+# Lógica de programação :rocket:
+
+Exercícios de lógica de programação do curso Python para zumbis do professor Fernando Masanori

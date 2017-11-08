@@ -11,4 +11,3 @@ while k <= n - 2:
     a,b= b, b+a
     k += 1
 print("fibonacci (%d) = %d" %(n,b))
-print("python é legal")

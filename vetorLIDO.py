@@ -5,3 +5,4 @@ while i <= 5:
     vetor.append(n)
     i +=1
 print("vetor lido: ", vetor)
+

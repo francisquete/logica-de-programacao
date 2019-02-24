@@ -1,3 +1,4 @@
+'''
 lista = [1, 2, 7, 4, 6, 9]
 print(type(lista))
 
@@ -10,3 +11,4 @@ lista = list(('masanori'))
 print(lista)
 aaa = ['sas', 'sadfrfe', 1]
 print(aaa)
+'''
